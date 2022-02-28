@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: 'Quicksand', sans-serif;
+  /* background-color: #f4f4f4; */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
